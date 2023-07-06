@@ -1,6 +1,8 @@
 # Smart-Bank
 
-Este é um projeto desenvolvido durante o curso "React com Styled Components" da Alura. Neste curso, foram abordados conceitos e práticas avançadas para lidar com estilização de componentes em aplicações React. Alguns dos tópicos abordados incluem:
+Este é um projeto desenvolvido durante o curso "React: abstraindo seu CSS com Styled Components" da Alura. (6 horas, Concluído)
+
+Neste curso, foram abordados conceitos e práticas avançadas para lidar com estilização de componentes em aplicações React. Alguns dos tópicos abordados incluem:
 
 - Solução de problemas de conflitos de nomes de classes com CSS.
 - Utilização do Styled Components para criar estilos de forma mais isolada e reutilizável.
