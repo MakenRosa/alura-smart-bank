@@ -10,7 +10,7 @@ Neste curso, foram abordados conceitos e práticas avançadas para lidar com est
 - Aproveitamento da herança dentro dos componentes para uma organização eficiente do projeto.
 - Benefícios de um código bem estruturado e modularizado.
 
-**[Acesse aqui o Smart-Bank pelo Vercel](https://alura-smart-bank-tau.vercel.app/)**
+**[Acesse aqui o Smart-Bank pelo Vercel](https://smart-bank-aug.vercel.app/)**
 
 ## Como clonar o repositório
 
