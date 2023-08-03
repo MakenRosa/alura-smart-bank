@@ -10,7 +10,7 @@ Neste curso, foram abordados conceitos e práticas avançadas para lidar com est
 - Aproveitamento da herança dentro dos componentes para uma organização eficiente do projeto.
 - Benefícios de um código bem estruturado e modularizado.
 
-**[Acesse aqui o Alura-Smart-Bank pelo Vercel](https://alura-smart-bank-tau.vercel.app/)**
+**[Acesse aqui o Smart-Bank pelo Vercel](https://alura-smart-bank-tau.vercel.app/)**
 
 ## Como clonar o repositório
 
@@ -25,7 +25,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-smart-bank.git
+git clone https://github.com/makenrosa/smart-bank.git
 ```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -137,6 +137,6 @@ A estrutura básica do projeto é a seguinte:
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-smart-bank/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/smart-bank/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
